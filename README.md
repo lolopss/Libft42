@@ -1,5 +1,5 @@
 # Libft42
-All my libft functions, including bonuses
+Ecole42 prooject with all my libft functions, including bonuses
 
 The goal of this project is to recreate most of basics functions of c, while 
 respecting norm and subject for each function.
